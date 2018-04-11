@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Chris/TownPrefab.unity
+- path: Assets/Scenes/Renier/Forest.unity
   isLoaded: 1
   isActive: 1
